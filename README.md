@@ -43,3 +43,5 @@ Se o poder de ataque for maior do que a defesa e o defensor possuir um escudo, o
 Se o poder de ataque for menor ou igual a defesa, o dano causado será 0.
 
 Por fim, o programa deve subtrair a quantidade de dano da quantidade de pontos de vida do personagem defensor e exibir na tela a quantidade de dano e as informações atualizadas de ambos os personagens.
+
+![alt text](<Screenshot from 2024-12-07 11-26-36.png>)
