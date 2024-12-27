@@ -12,7 +12,7 @@ Escreva um programa em javascript que permita salvar informações de um recruta
 
 Depois o programa deve exibir o nome completo do recruta, seu campo de estudo e sua idade (apenas baseada no ano de nascimento).
 
-![alt text](<Screenshot from 2024-12-01 22-00-06.png>)
+![alt text](imagens/cadastroDeRecruta.png)
 
 ---
 
@@ -22,14 +22,13 @@ Escreve um programa em javascript que permita inserir dois valores numéricos e 
 
 Após calcular os resultados o programa deve exibi-los na tela.
 
-![alt text](<Screenshot from 2024-12-01 22-00-51.png>)
+![alt text](imagens/calculadora4Operacoes.png)
 
 ## 3. Teste de Velocidade
 
 Escreva um programa em javascript que permita inserir o nome e a velocidade de dois veículos e exiba na tela uma mensagem dizendo qual dos dois é mais rápido (ou que as velocidades são iguais se este for o caso).
 
-![alt text](<Screenshot from 2024-12-01 22-01-25.png>)
-
+![alt text](imagens/testeDeVelocidade.png)
 
 
 ## 4. Cálculo de Dano
@@ -44,4 +43,4 @@ Se o poder de ataque for menor ou igual a defesa, o dano causado será 0.
 
 Por fim, o programa deve subtrair a quantidade de dano da quantidade de pontos de vida do personagem defensor e exibir na tela a quantidade de dano e as informações atualizadas de ambos os personagens.
 
-![alt text](<Screenshot from 2024-12-07 11-26-36.png>)
+![alt text](imagens/calculoDeDano.png)
