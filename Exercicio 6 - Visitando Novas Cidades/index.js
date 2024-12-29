@@ -8,7 +8,7 @@ const turista = prompt("Olá turista. Informe o seu nome: ");
 
 let visita = prompt("Você já visitou alguma cidade ? Sim/Não");
 
-let cidades = " ";
+let cidades = "";
 
 let quantidade = 0;
 
